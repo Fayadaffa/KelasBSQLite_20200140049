@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/KelasBSQLite/app/src/main/res/layout/activity_edit_teman.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/KelasBSQLite/app/src/main/res/layout/activity_main.xml" value="0.5841584158415841" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/KelasBSQLite/app/src/main/res/layout/activity_teman_baru.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/KelasBSQLite/app/src/main/res/layout/row_data_teman.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/KelasBSQLite/app/src/main/res/menu/menu.xml" value="0.24947916666666667" />
       </map>
     </option>
   </component>
